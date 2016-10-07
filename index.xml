@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick!</title>
+    <link>http://replace-this-with-your-website-url.com/</link>
+    <description>Recent content on Nick!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Feller</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Github Projects!</title>
+      <link>http://replace-this-with-your-website-url.com/project/github/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hovercraft Team Design Competition and Race</title>
+      <link>http://replace-this-with-your-website-url.com/project/miniminicap/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/miniminicap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Parking</title>
+      <link>http://replace-this-with-your-website-url.com/project/smartparking/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/smartparking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Distributed Memory Extension</title>
+      <link>http://replace-this-with-your-website-url.com/project/sdmx/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/sdmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Data Acquisition Android App</title>
+      <link>http://replace-this-with-your-website-url.com/project/saeapp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/saeapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeezy Vision</title>
+      <link>http://replace-this-with-your-website-url.com/project/yeezyvision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/yeezyvision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concordia University</title>
+      <link>http://replace-this-with-your-website-url.com/post/concordia/</link>
+      <pubDate>Tue, 01 Sep 2015 11:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/concordia/</guid>
+      <description>&lt;p&gt;&lt;em&gt;September 2015 - Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I started working at Concordia University&amp;rsquo;s &lt;a href=&#34;http://explore.concordia.ca/expertise/artificial_intelligence&#34;&gt;Computational Intellince Lab&lt;/a&gt; in September of 2015 under the supervision of &lt;a href=&#34;http://explore.concordia.ca/nawwaf-kharma&#34;&gt;Dr Nawwaf Kharma&lt;/a&gt; during my time here, I have worked on several projects. MY latest project has raised ~20&amp;rsquo;000$ in grants from NSERC discovery.&lt;/p&gt;
+
+&lt;p&gt;As part of the lab I also gave courses in Python (basics, data analysis and visualization) to graduate students in biology and chemistry.&lt;/p&gt;
+
+&lt;p&gt;Projects I have worked on:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Numerical optimization using combination of tabu search, simulated annealing and differential evolution (2015).&lt;/li&gt;
+&lt;li&gt;Pattern recognition game for Rock-Paper-Scissors (2016).&lt;/li&gt;
+&lt;li&gt;Sparse Distributed Memory algorithm (2016-2017).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Techologies: [Go] [Python] [Matlab] [AWS] [Supercomputer] [DigitalOcean] [Atlassian] [Image Processing]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>http://replace-this-with-your-website-url.com/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ericsson</title>
+      <link>http://replace-this-with-your-website-url.com/post/ericsson/</link>
+      <pubDate>Sat, 02 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/ericsson/</guid>
+      <description>&lt;p&gt;&lt;em&gt;May 2015 - Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been working at Ericsson since May &amp;lsquo;15. Part time during the school year and full time for summer &amp;lsquo;15 and &amp;lsquo;16; in the Global Cloud Team.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the things I have worked on:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Android App for accessing metro with phone&amp;rsquo;s RFID&lt;/li&gt;
+&lt;li&gt;Smart parking solution with sensor + webapp and android app.&lt;/li&gt;
+&lt;li&gt;Pre-sales adaptations for international clients.&lt;/li&gt;
+&lt;li&gt;Business development for IoT customers in shipping and transportation.&lt;/li&gt;
+&lt;li&gt;Business development for operator clients in services&lt;/li&gt;
+&lt;li&gt;Building microservices for a connected traffic solution.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Technologies used: [Go] [Java] [Python] [Android] [Altassian] [Javascript] [Ubuntu] [Web Development] [IoT]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hydro-Quebec</title>
+      <link>http://replace-this-with-your-website-url.com/post/hydroquebec/</link>
+      <pubDate>Mon, 01 Sep 2014 10:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/hydroquebec/</guid>
+      <description>&lt;p&gt;&lt;em&gt;September 2014 - December 2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Worked as a automation engineer intern at Hydro-Quebec. Using primarily python and Microsoft office.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Automated the calculations of many routine tasks.&lt;/li&gt;
+&lt;li&gt;Generated reports based on requests from engineers.&lt;/li&gt;
+&lt;li&gt;Planned grid layout based on simulations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My position was automated so efficiently that they canceled the position for the following semester.&lt;/p&gt;
+
+&lt;p&gt;Technologies used: [Python] [MS Office] [VBA]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TEDx</title>
+      <link>http://replace-this-with-your-website-url.com/post/TEDx/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/TEDx/</guid>
+      <description>&lt;p&gt;&lt;em&gt;September 2013 - Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been involved with &lt;a href=&#34;http://tedxconcordia.com/&#34;&gt;TEDxConcordia&lt;/a&gt; and &lt;a href=&#34;http://tedxmontreal.com/en/&#34;&gt;TEDxMontreal&lt;/a&gt; since September of 2013.&lt;/p&gt;
+
+&lt;p&gt;TEDxConcordia 2014. Head organizer and license holder: Recruited a team of collaborators. Selected and coached speakers. Raised budget of 50&amp;rsquo;000$ through sponsorships and ticket sales. Created partnerships and collaborations with local, business, designers and artists. Managed budget and medium sized team. Organized logistics such as filming and editing, booking venue and catering.&lt;/p&gt;
+
+&lt;p&gt;TEDxMontreal 2015. Curator: Interviewed, selected and coached speakers. Helped develop ideas and talks&lt;/p&gt;
+
+&lt;p&gt;TEDxConcordia 2016-2017: Advisor: Helped with talks related to high abstraction problems, creating partnerships, setting up sponsorships and recruiting speakers&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>http://replace-this-with-your-website-url.com/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Development on Nick!</title>
+    <link>http://replace-this-with-your-website-url.com/tags/business-development/</link>
+    <description>Recent content in Business Development on Nick!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Feller</copyright>
+    <lastBuildDate>Sat, 02 May 2015 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/tags/business-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ericsson</title>
+      <link>http://replace-this-with-your-website-url.com/post/ericsson/</link>
+      <pubDate>Sat, 02 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/ericsson/</guid>
+      <description>&lt;p&gt;&lt;em&gt;May 2015 - Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been working at Ericsson since May &amp;lsquo;15. Part time during the school year and full time for summer &amp;lsquo;15 and &amp;lsquo;16; in the Global Cloud Team.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the things I have worked on:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Android App for accessing metro with phone&amp;rsquo;s RFID&lt;/li&gt;
+&lt;li&gt;Smart parking solution with sensor + webapp and android app.&lt;/li&gt;
+&lt;li&gt;Pre-sales adaptations for international clients.&lt;/li&gt;
+&lt;li&gt;Business development for IoT customers in shipping and transportation.&lt;/li&gt;
+&lt;li&gt;Business development for operator clients in services&lt;/li&gt;
+&lt;li&gt;Building microservices for a connected traffic solution.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Technologies used: [Go] [Java] [Python] [Android] [Altassian] [Javascript] [Ubuntu] [Web Development] [IoT]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

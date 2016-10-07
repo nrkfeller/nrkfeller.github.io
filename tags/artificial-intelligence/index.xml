@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Nick!</title>
+    <link>http://replace-this-with-your-website-url.com/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Nick!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Feller</copyright>
+    <lastBuildDate>Tue, 01 Sep 2015 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concordia University</title>
+      <link>http://replace-this-with-your-website-url.com/post/concordia/</link>
+      <pubDate>Tue, 01 Sep 2015 11:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/concordia/</guid>
+      <description>&lt;p&gt;&lt;em&gt;September 2015 - Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I started working at Concordia University&amp;rsquo;s &lt;a href=&#34;http://explore.concordia.ca/expertise/artificial_intelligence&#34;&gt;Computational Intellince Lab&lt;/a&gt; in September of 2015 under the supervision of &lt;a href=&#34;http://explore.concordia.ca/nawwaf-kharma&#34;&gt;Dr Nawwaf Kharma&lt;/a&gt; during my time here, I have worked on several projects. MY latest project has raised ~20&amp;rsquo;000$ in grants from NSERC discovery.&lt;/p&gt;
+
+&lt;p&gt;As part of the lab I also gave courses in Python (basics, data analysis and visualization) to graduate students in biology and chemistry.&lt;/p&gt;
+
+&lt;p&gt;Projects I have worked on:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Numerical optimization using combination of tabu search, simulated annealing and differential evolution (2015).&lt;/li&gt;
+&lt;li&gt;Pattern recognition game for Rock-Paper-Scissors (2016).&lt;/li&gt;
+&lt;li&gt;Sparse Distributed Memory algorithm (2016-2017).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Techologies: [Go] [Python] [Matlab] [AWS] [Supercomputer] [DigitalOcean] [Atlassian] [Image Processing]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

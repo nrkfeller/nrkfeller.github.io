@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nick!</title>
+    <link>http://replace-this-with-your-website-url.com/project/</link>
+    <description>Recent content in Projects on Nick!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Feller</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Github Projects!</title>
+      <link>http://replace-this-with-your-website-url.com/project/github/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hovercraft Team Design Competition and Race</title>
+      <link>http://replace-this-with-your-website-url.com/project/miniminicap/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/miniminicap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Parking</title>
+      <link>http://replace-this-with-your-website-url.com/project/smartparking/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/smartparking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Distributed Memory Extension</title>
+      <link>http://replace-this-with-your-website-url.com/project/sdmx/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/sdmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Data Acquisition Android App</title>
+      <link>http://replace-this-with-your-website-url.com/project/saeapp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/saeapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeezy Vision</title>
+      <link>http://replace-this-with-your-website-url.com/project/yeezyvision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/project/yeezyvision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

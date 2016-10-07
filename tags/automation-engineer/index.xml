@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation Engineer on Nick!</title>
+    <link>http://replace-this-with-your-website-url.com/tags/automation-engineer/</link>
+    <description>Recent content in Automation Engineer on Nick!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Feller</copyright>
+    <lastBuildDate>Mon, 01 Sep 2014 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/tags/automation-engineer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hydro-Quebec</title>
+      <link>http://replace-this-with-your-website-url.com/post/hydroquebec/</link>
+      <pubDate>Mon, 01 Sep 2014 10:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/post/hydroquebec/</guid>
+      <description>&lt;p&gt;&lt;em&gt;September 2014 - December 2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Worked as a automation engineer intern at Hydro-Quebec. Using primarily python and Microsoft office.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Automated the calculations of many routine tasks.&lt;/li&gt;
+&lt;li&gt;Generated reports based on requests from engineers.&lt;/li&gt;
+&lt;li&gt;Planned grid layout based on simulations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My position was automated so efficiently that they canceled the position for the following semester.&lt;/p&gt;
+
+&lt;p&gt;Technologies used: [Python] [MS Office] [VBA]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
